@@ -11,8 +11,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.goodmomrningtech.news
+  #baseUrl: /status
   theme: light
   logoUrl: https://cdn.goodmorningtech.news/logo.png
   favicon: https://cdn.goodmorningtech.news/website/favicon/android-icon-192x192.png
