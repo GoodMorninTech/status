@@ -4,8 +4,12 @@ repo: status
 sites:
   - name: Good Morning Tech website
     url: https://goodmorningtech.news
+    icon: https://cdn.goodmorningtech.news/tsp-logo.png
+    
   - name: Development website
     url: https://dev.goodmorningtech.news
+    icon: https://cdn.goodmorningtech.news/tsp-logo.png
+    
   - name: Source BBC
     url: https://feeds.bbci.co.uk/news/technology/rss.xml
   - name: Source TechCrunch
