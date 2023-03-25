@@ -6,13 +6,25 @@ sites:
     url: https://goodmorningtech.news
   - name: Development website
     url: https://dev.goodmorningtech.news
+  - name: Source: BBC
+    url: https://feeds.bbci.co.uk/news/technology/rss.xml
+  - name: Source: TechCrunch
+    url: https://techcrunch.com/feed/
+  - name: Source: The Verge
+    url: https://www.theverge.com/rss/index.xml
+  - name: Source: The Guardian
+    url: https://www.theguardian.com/uk/technology/rss
+  - name: Source: CNN
+    url: http://rss.cnn.com/rss/cnn_tech.rss
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.goodmorningtech.news
-  #baseUrl: /status
   theme: light
+  title: Status Good Morning Tech
+  css: "#sapper > nav > div > div > a > div {display: none;}"
   logoUrl: https://cdn.goodmorningtech.news/logo.png
   favicon: https://cdn.goodmorningtech.news/website/favicon/android-icon-192x192.png
   introTitle: Status Good Morning Tech
+
+i18n:
+  footer: This status page is from the Good Morning Tech Team, powered by [Upptime](https://upptime.js.org)
