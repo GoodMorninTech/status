@@ -27,7 +27,7 @@ status-website:
   title: Status Good Morning Tech
   css: "#sapper > nav > div > div > a > div {display: none;}"
   logoUrl: https://cdn.goodmorningtech.news/logo.png
-  favicon: https://cdn.goodmorningtech.news/website/favicon/android-icon-192x192.png
+  favicon: https://cdn.goodmorningtech.news/tsp-logo.png
   introTitle: Status Good Morning Tech
 
 i18n:
