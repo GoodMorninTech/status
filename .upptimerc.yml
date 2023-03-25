@@ -12,19 +12,24 @@ sites:
     
   - name: Source BBC
     url: https://feeds.bbci.co.uk/news/technology/rss.xml
+    icon: http://cdn.goodmorningtech.news/website/news_source_icons/bbc.svg
   - name: Source TechCrunch
     url: https://techcrunch.com/feed/
+    icon: http://cdn.goodmorningtech.news/website/news_source_icons/techcrunch.svg
   - name: Source The Verge
     url: https://www.theverge.com/rss/index.xml
+    icon: http://cdn.goodmorningtech.news/website/news_source_icons/verge.svg
   - name: Source The Guardian
     url: https://www.theguardian.com/uk/technology/rss
+    icon: http://cdn.goodmorningtech.news/website/news_source_icons/guardian.svg
   - name: Source CNN
     url: http://rss.cnn.com/rss/cnn_tech.rss
+    icon: http://cdn.goodmorningtech.news/website/news_source_icons/cnn.svg
 
 status-website:
   cname: status.goodmorningtech.news
   theme: light
-  title: Status Good Morning Tech
+  name: Status Good Morning Tech
   css: "#sapper > nav > div > div > a > div {display: none;}"
   logoUrl: https://cdn.goodmorningtech.news/logo.png
   favicon: https://cdn.goodmorningtech.news/tsp-logo.png
