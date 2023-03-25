@@ -6,15 +6,15 @@ sites:
     url: https://goodmorningtech.news
   - name: Development website
     url: https://dev.goodmorningtech.news
-  - name: Source: BBC
+  - name: Source BBC
     url: https://feeds.bbci.co.uk/news/technology/rss.xml
-  - name: Source: TechCrunch
+  - name: Source TechCrunch
     url: https://techcrunch.com/feed/
-  - name: Source: The Verge
+  - name: Source The Verge
     url: https://www.theverge.com/rss/index.xml
-  - name: Source: The Guardian
+  - name: Source The Guardian
     url: https://www.theguardian.com/uk/technology/rss
-  - name: Source: CNN
+  - name: Source CNN
     url: http://rss.cnn.com/rss/cnn_tech.rss
 
 status-website:
