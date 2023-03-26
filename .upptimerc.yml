@@ -9,6 +9,22 @@ sites:
   - name: Development website
     url: https://dev.goodmorningtech.news
     icon: https://cdn.goodmorningtech.news/tsp-logo.png
+
+  - name: CDN Good Morning Tech
+    url: https://cdn.goodmorningtech.news
+    icon: https://cdn.goodmorningtech.news/tsp-logo.png
+    
+  - name: GitHub Trending
+    url: https://github.com/trending
+    icon: https://cdn.goodmorningtech.news/website/github-mark.svg
+    
+  - name: Leetcode
+    url: https://leetcode.com
+    icon: https://leetcode.com/static/images/LeetCode_logo_rvs.png
+    
+  - name: Cybrancee
+    url: https://webhosting.cybrancee.com:8443/
+    icon: https://cybrancee.com/client/templates/lagom2/assets/img/favicons/favicon-192.png
     
   - name: Source BBC
     url: https://feeds.bbci.co.uk/news/technology/rss.xml
