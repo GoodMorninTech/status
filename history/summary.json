@@ -76,19 +76,19 @@
     "url": "https://leetcode.com",
     "icon": "https://leetcode.com/static/images/LeetCode_logo_rvs.png",
     "slug": "leetcode",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 161,
-    "timeWeek": 185,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 192,
+    "timeDay": 181,
+    "timeWeek": 192,
+    "timeMonth": 192,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-03-28": 0
+      "2023-03-28": 5
     }
   },
   {
