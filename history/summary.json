@@ -151,9 +151,9 @@
     "url": "https://www.theverge.com/rss/index.xml",
     "icon": "http://cdn.goodmorningtech.news/website/news_source_icons/verge.svg",
     "slug": "source-the-verge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -162,7 +162,9 @@
     "timeWeek": 83,
     "timeMonth": 85,
     "timeYear": 85,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-05": 0
+    }
   },
   {
     "name": "Source The Guardian",
