@@ -151,19 +151,19 @@
     "url": "https://www.theverge.com/rss/index.xml",
     "icon": "http://cdn.goodmorningtech.news/website/news_source_icons/verge.svg",
     "slug": "source-the-verge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 39,
-    "timeWeek": 83,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "status": "up",
+    "uptime": "97.27%",
+    "uptimeDay": "69.68%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "97.27%",
+    "time": 86,
+    "timeDay": 72,
+    "timeWeek": 85,
+    "timeMonth": 86,
+    "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-04-05": 0
+      "2023-04-05": 437
     }
   },
   {
