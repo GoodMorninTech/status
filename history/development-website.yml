@@ -1,7 +1,7 @@
 url: https://dev.goodmorningtech.news
-status: up
-code: 200
-responseTime: 3561
-lastUpdated: 2023-04-08T23:04:35.576Z
+status: down
+code: 429
+responseTime: 202
+lastUpdated: 2023-04-09T19:46:02.056Z
 startTime: Fri Mar 24 2023 09:56:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
