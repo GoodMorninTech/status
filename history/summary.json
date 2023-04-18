@@ -121,19 +121,19 @@
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "icon": "http://cdn.goodmorningtech.news/website/news_source_icons/bbc.svg",
     "slug": "source-bbc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 398,
-    "timeWeek": 283,
-    "timeMonth": 333,
-    "timeYear": 333,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 329,
+    "timeDay": 305,
+    "timeWeek": 274,
+    "timeMonth": 329,
+    "timeYear": 329,
     "dailyMinutesDown": {
-      "2023-04-18": 0
+      "2023-04-18": 9
     }
   },
   {
