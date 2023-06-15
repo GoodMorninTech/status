@@ -235,19 +235,19 @@
     "url": "http://rss.cnn.com/rss/cnn_tech.rss",
     "icon": "http://cdn.goodmorningtech.news/website/news_source_icons/cnn.svg",
     "slug": "source-cnn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 4090,
-    "timeWeek": 1251,
-    "timeMonth": 509,
-    "timeYear": 346,
+    "time": 347,
+    "timeDay": 2883,
+    "timeWeek": 1164,
+    "timeMonth": 507,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2023-06-15": 0
+      "2023-06-15": 5
     }
   }
 ]
